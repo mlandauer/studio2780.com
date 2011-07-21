@@ -1,0 +1,1 @@
+A static website for studio2780.com
