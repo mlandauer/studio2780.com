@@ -9,7 +9,7 @@
 	
 	div.row div {
 	  color: #fff;
-	  background-color: rgba(0,0,0,0.5);
+	  background-color: rgba(0,0,0,0.7);
 	  margin-top: 1em;
   }
 
@@ -24,6 +24,16 @@
   
   p {
     margin-bottom: 0.5em;
+  }
+  
+  p, h1, h2{
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  
+  h2 {
+    padding-top: 4px;
   }
   
 /* ============================= */
