@@ -3,10 +3,29 @@
 /* ============================== */
 
 	body {
-		
+		background: url(../lights_original.jpg);
+		background-size: 100%;
 	}
 	
+	div.row div {
+	  color: #fff;
+	  background-color: rgba(0,0,0,0.5);
+	  margin-top: 1em;
+  }
 
+  a {
+    color: #ccc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  p {
+    margin-bottom: 0.5em;
+  }
+  
 /* ============================= */
 /* ! Layout for mobile version   */
 /* ============================= */
