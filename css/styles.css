@@ -6,6 +6,10 @@
     font-family: raleway;
     color: #f88;
   }
+  
+  p {
+    font-family: Arial, "MS Trebuchet", sans-serif;
+  }
 
 	body {
 		background: url(../lights.jpg);
