@@ -45,6 +45,17 @@
     padding-top: 4px;
   }
   
+  .contact a {
+    background-color: #fff;
+    color: #000;
+    padding: 2px;
+  }
+  
+  .contact a:hover {
+    background-color: inherit;
+    color: inherit;
+  }
+  
 /* ============================= */
 /* ! Layout for mobile version   */
 /* ============================= */
