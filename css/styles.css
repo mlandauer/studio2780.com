@@ -2,6 +2,10 @@
 /* ! Layout for desktop version   */
 /* ============================== */
 
+  h1, h2 {
+    font-family: raleway;
+  }
+
 	body {
 		background: url(../lights_original.jpg);
 		background-size: 100%;
