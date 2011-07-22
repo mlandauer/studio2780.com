@@ -29,6 +29,7 @@
   
   div.row.explanation div {
     background-color: transparent;
+    margin-top: 0;
   }
 
   a {
