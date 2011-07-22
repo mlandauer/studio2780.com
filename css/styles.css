@@ -64,8 +64,13 @@
 
 	body {
 		background: none;
+		background-color: #4c4c4c;
 	}
 
+	div.row div {
+	  color: #fff;
+	  background-color: transparent;
+  }
 }
 
 
