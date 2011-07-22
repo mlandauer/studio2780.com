@@ -21,6 +21,15 @@
 	  background-color: rgba(0,0,0,0.7);
 	  margin-top: 1em;
   }
+  
+  .explanation {
+    margin-top: 1em;
+	  background-color: rgba(0,0,0,0.7);
+  }
+  
+  div.row.explanation div {
+    background-color: transparent;
+  }
 
   a {
     color: #ccc;
