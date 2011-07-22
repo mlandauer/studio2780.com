@@ -25,7 +25,6 @@
   .explanation {
     margin-top: 1em;
 	  background-color: rgba(0,0,0,0.7);
-    margin-bottom: 3em;
   }
   
   div.row.explanation div {
@@ -66,6 +65,24 @@
   .contact a:hover {
     background-color: inherit;
     color: inherit;
+  }
+  
+  .credits {
+    margin-bottom: 3em;
+    font-size: 75%;
+  }
+  
+  div.row.credits div {
+    background-color: inherit;
+    text-align: right;
+  }
+  
+  .credits a, .credits p {
+    color: #000;
+  }
+  
+  .credits p {
+     margin-bottom: 0;
   }
   
 /* ============================= */
